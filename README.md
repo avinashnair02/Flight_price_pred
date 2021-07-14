@@ -16,9 +16,7 @@ Link: [https://flightprd.herokuapp.com/](https://flightprd.herokuapp.com/)
 ![image](https://user-images.githubusercontent.com/48132861/125554009-834d6165-b030-4f1d-aa55-ad1fa944d050.png)
 
 
-[![](https://i.imgur.com/R1g2wvC.png)](https://flightprd.herokuapp.com/)
-
-[![](https://i.imgur.com/p0aeL6c.png)](https://flightprd.herokuapp.com/)
+![image](https://user-images.githubusercontent.com/48132861/125554099-c4a7bd8a-940c-491b-a3e8-a84c4f4d3d21.png)
 
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
@@ -35,7 +33,6 @@ pip install -r requirements.txt
 ## Deployement on Heroku
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
 
-[![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
 
 Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
 
